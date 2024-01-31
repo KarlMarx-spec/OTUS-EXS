@@ -1,0 +1,15 @@
+D:\github_projects\MultithreadProject\MultithreadProject\bin\Debug\net6.0\MultithreadProject.exe
+D:\github_projects\MultithreadProject\MultithreadProject\bin\Debug\net6.0\MultithreadProject.deps.json
+D:\github_projects\MultithreadProject\MultithreadProject\bin\Debug\net6.0\MultithreadProject.runtimeconfig.json
+D:\github_projects\MultithreadProject\MultithreadProject\bin\Debug\net6.0\MultithreadProject.dll
+D:\github_projects\MultithreadProject\MultithreadProject\bin\Debug\net6.0\MultithreadProject.pdb
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.csproj.AssemblyReference.cache
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.AssemblyInfoInputs.cache
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.AssemblyInfo.cs
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.csproj.CoreCompileInputs.cache
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.dll
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\refint\MultithreadProject.dll
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.pdb
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\MultithreadProject.genruntimeconfig.cache
+D:\github_projects\MultithreadProject\MultithreadProject\obj\Debug\net6.0\ref\MultithreadProject.dll
